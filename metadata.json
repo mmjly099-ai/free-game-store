@@ -1,0 +1,6 @@
+{
+  "name": "Free Game | متجر حسابات فري فاير",
+  "description": "متجر Free Game المتخصص في بيع وشراء حسابات لعبة Free Fire النادرة والمميزة مع تسليم فوري وضمان كامل وطرق دفع يمنية معتمدة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
